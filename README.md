@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
@@ -43,3 +44,7 @@ Then, update the stylesheet header in `style.css` and the links in `footer.php` 
 Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
+=======
+# GourmetArtistry
+A wordpress theme built using underscores.me and foundation zurb
+>>>>>>> 4a389c21ef6c11d16ac5a9fd4abf1931e6125710
